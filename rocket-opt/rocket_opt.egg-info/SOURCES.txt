@@ -1,0 +1,6 @@
+setup.py
+rocket_opt.egg-info/PKG-INFO
+rocket_opt.egg-info/SOURCES.txt
+rocket_opt.egg-info/dependency_links.txt
+rocket_opt.egg-info/requires.txt
+rocket_opt.egg-info/top_level.txt
