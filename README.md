@@ -22,6 +22,7 @@
 
 * direct to example folder which includes a file "example_random_policy.py"
 * type command : $ python example_random_policy.py
+* type gym.make("rocket_opt:rocket-v0") to make the environment
 
 ## Sample Screenshot
 ![Screenshot](example/ex_sc.png)
